@@ -1,0 +1,11 @@
+<div id="navbar" class=""> {{ $currentpage := . }}
+    <ul class="frl">
+        {{- range .Site.Menus.main }}
+        {{- if or ($currentpage.IsMenuCurrent "main" .) ($currentpage.HasMenuCurrent "main" .)}}
+        <li class="navitem"><a href="{{ .URL }}" class="lb plr1 navlink active">{{ .Title }}</a></li>
+        {{- else }}
+        <li class="navitem"><a href="{{ .URL }}" class="lb plr1 navlink">{{ .Title }}</a></li>
+        {{- end }}
+        {{- end }}
+    </ul>
+</div>

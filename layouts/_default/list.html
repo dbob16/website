@@ -1,0 +1,18 @@
+{{- define "main" }}
+<div id="main" class="hc p1 rf mb1">
+    <main>
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+        {{- if .Date }}
+        <p>Last Modified: {{ .Date.Format "Monday, January 2, 2006 at 3:04PM"}}</p>
+        {{- end }}
+    </main>
+</div>
+<div id="pagelist">
+    <ul class="pagelist hc frl p1 mb1">
+        {{- range .RegularPages }}
+        <li class="pageitem"><a href="{{ .Permalink }}" class="pagelink lb">{{ .Title }}</a></li>
+        {{- end }}
+    </ul>
+</div>
+{{- end }}
