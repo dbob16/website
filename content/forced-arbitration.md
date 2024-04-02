@@ -19,9 +19,31 @@ Planning into the future, I will update this as I get email notifications of pla
 
 {{< toc >}}
 
+## Amazon
+
+Updated: September 14th, 2022
+
+Type: Specific court without jury
+
+Text in [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM):
+
+> Any dispute or claim relating in any way to your use of any Amazon Service will be adjudicated in the state or Federal courts in King County, Washington, and you consent to exclusive jurisdiction and venue in these courts. We each waive any right to a jury trial.
+
+## Apple Payments
+
+Effective: August 6th, 2019
+
+Type: Individual Arbitration with JAMS rules
+
+Text in [Terms and Conditions](https://www.apple.com/legal/applepayments/direct-payments/):
+
+> Any Claim will be decided by an arbitrator, rather than by a judge or jury, and an arbitration award will be final and binding on you and Apple Payments, without any right of appeal. Court review of an arbitration award will be very limited. With the exception of Section C below, you and Apple Payments hereby waive the right to assert any Claim in any court. As set out in Section D below, all arbitrations will be conducted on an individual basis, and there shall be no class or collective actions in arbitration.
+
 ## Coffee Meets Bagel
 
 Introduced and Updated: March 30th 2024
+
+Type: Individual Arbitration
 
 Texts in [Terms of Service](https://coffeemeetsbagel.com/tos):
 
@@ -37,6 +59,8 @@ Introduced and Updated: March 15th, 2024
 
 Goes into effect: April 15th, 2024
 
+Type: American Arbitration Association (AAA)
+
 Text in [Terms of Service](https://discord.com/terms):
 
 > ‍Arbitration rules. The arbitration will be conducted by a single arbitrator, governed by these terms and the American Arbitration Association Rules, excluding any rules or procedures governing or permitting class or representative actions (the “AAA Rules”), available at https://www.adr.org/active-rules. These terms will govern if there’s a conflict between these terms and the AAA Rules.  To begin the arbitration proceeding, either party must submit a written Demand for Arbitration (available at www.adr.org) with the AAA and provide a copy to the other party as specified in the AAA Rules.  To provide notice to Discord, please send an email with the subject line “Arbitration Demand” to disputes@discordapp.com.
@@ -46,6 +70,8 @@ Text in [Terms of Service](https://discord.com/terms):
 ## Google (Store for Pixel Phones)
 
 Introduced and Updated: October 4th, 2024
+
+Type: American Arbitration Association (AAA)
 
 Text in [Google Stores Sales Terms](https://store.google.com/intl/en-US_us/about/device-terms/):
 
@@ -80,6 +106,8 @@ Text in [Google Stores Sales Terms](https://store.google.com/intl/en-US_us/about
 
 Introduced and Updated: September 20th, 2020 (Tentative from Wayback Machine/archive.org data)
 
+Type: American Arbitration Association (AAA)
+
 Text in [Arbitration Agreement (separate from regular terms)](https://www.lg.com/us/arbitration):
 
 > ALL DISPUTES BETWEEN YOU AND LG ARISING OUT OF OR RELATING IN ANY WAY TO THIS LIMITED WARRANTY OR THE PRODUCT SHALL BE RESOLVED EXCLUSIVELY THROUGH BINDING ARBITRATION, AND NOT IN A COURT OF GENERAL JURISDICTION. BINDING ARBITRATION MEANS THAT YOU AND LG ARE EACH WAIVING THE RIGHT TO A JURY TRIAL AND TO BRING OR PARTICIPATE IN A CLASS ACTION.
@@ -92,6 +120,8 @@ Text in [Arbitration Agreement (separate from regular terms)](https://www.lg.com
 
 Introduced and Updated: January 16th, 2024
 
+Type: Individual Arbitration
+
 Text in [User Agreement](https://www.paypal.com/us/legalhub/useragreement-full?locale.x=en_US#s6-agreement-arbitrate):
 
 > ... These terms include an agreement to resolve disputes by arbitration on an individual basis. You also agree to comply with each of the other terms or agreements on the Legal Agreements page that apply to you and the following additional policies:
@@ -103,3 +133,15 @@ Text in [User Agreement](https://www.paypal.com/us/legalhub/useragreement-full?l
 > ...
 >
 > You and PayPal agree that each of us may bring claims against the other only on an individual basis and not as a plaintiff or class member in any purported class or representative action or proceeding. Unless both you and PayPal agree otherwise, the arbitrator(s) may not consolidate or join more than one person’s or party’s claims and may not otherwise preside over any form of a consolidated, representative or class proceeding. Also, the arbitrator(s) may award relief (including monetary, injunctive and declaratory relief) only in favor of the individual party seeking relief and only to the extent necessary to provide relief necessitated by that party’s individual claim(s). Any relief awarded cannot affect other PayPal customers.
+
+## Square
+
+Updated: December 6th, 2023
+
+Goes into effect: January 6th, 2024
+
+Type: Individual Arbitration
+
+Text in [General Terms of Service](https://squareup.com/us/en/legal/general/ua):
+
+> You and Square agree that any and all Disputes, except those that are resolved informally or brought in a small claims court, will be individually arbitrated by a neutral arbitrator who has the power to award the same individual damages and individual relief that a court can. ANY ARBITRATION UNDER THESE GENERAL TERMS WILL ONLY BE ON AN INDIVIDUAL BASIS; CLASS ARBITRATIONS, CLASS ACTIONS, REPRESENTATIVE ACTIONS, MASS ACTIONS, AND CONSOLIDATION WITH OTHER ARBITRATIONS ARE NOT PERMITTED. YOU WAIVE ANY RIGHT TO HAVE YOUR CASE DECIDED BY A JURY AND YOU WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION AGAINST SQUARE.

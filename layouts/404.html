@@ -3,6 +3,7 @@
 {{- define "main" }}
 <div id="error404" class="p1 rf hc mb1">
     <h1>Error 404 - Page Not Found</h1>
-    <p>The page you went looking for was not found. Either it wasn't linked or typed in correctly. It also may have been deleted.</p>
+    <p>The page `<span id="pathtext">filler</span>` was not found. Please check the path and try again. It may have been deleted or you have remembered it incorrectly.</p>
+    <script type="text/javascript">document.getElementById("pathtext").innerText = window.location.pathname</script>
 </div>
 {{- end }}
