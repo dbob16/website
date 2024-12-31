@@ -1,35 +1,35 @@
 {{- define "main" }}
-<div id="main" class="hc rf p1">
-    <main>
-        <h1>{{ .Title }}</h1>
-        {{ .Content }}
-        {{- if .Date }}
-        <p>Last Modified: {{ .Date.Format "Monday, January 2, 2006 at 3:04PM"}}</p>
-        {{- end }}
-    </main>
+<div id="contentbody">
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+{{- if .Date }}
+<p>Last modified: {{ .Date.Format "Jan 02, 2006 at 03:04PM" }}</p>
+{{- end }}
 </div>
-<div id="bloglist" class="pt1">
-    <ul class="fcl">
-    {{- range .Paginator.Pages }}
-    <li class="hc p1 rf"> <article>
-    <a href="{{ .Permalink }}"><b>{{ .Title }}</b></a><br>
-    {{ .Date.Format "2006-01-02 at 3:04PM"}}<br>
-    <p>{{ .Summary }}</p>
-    {{- if .Truncated }}
-    <a href="{{ .Permalink }}">Read More...</a>
-    {{- end }}
-    </article> </li>
-    {{- end }}
-    </ul>
-</div>
-{{- with .Paginator }}
-<div id="paginator" class="db">
-    {{- with .Prev }}
-    <a href="{{ .URL }}" class="lb pg-l mtb1">< Newer</a>
-    {{- end }}
-    {{- with .Next }}
-    <a href="{{ .URL }}" class="lb pg-r mtb1">Older ></a>
-    {{- end }}
+<div id="pagelist">
+{{- range .Paginator.Pages }}
+<div class="page-item">
+<a href="{{ .Permalink }}" class="block">{{ .Title }}</a>
+<p><em>{{ .Date.Format "2006-01-02 at 03:04PM" }}</em></p>
+<p>{{ .Summary }}</p>
+{{- if .Truncated }}
+<a href="{{ .Permalink }}" class="block">Read More</a>
+{{- end }}
 </div>
 {{- end }}
+<div id="paginator">
+{{- with .Paginator }}
+<div id="previousbutton">
+{{- with .Prev }}
+<a href="{{ .URL }}" class="block whitelink">< Newer</a>
+{{- end }}
+</div>
+<div id="nextbutton">
+{{- with .Next }}
+<a href="{{ .URL }}" class="block whitelink">Older ></a>
+{{- end }}
+</div>
+{{- end }}
+</div>
+</div>
 {{- end }}

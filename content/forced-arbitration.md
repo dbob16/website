@@ -116,6 +116,24 @@ Text in [Arbitration Agreement (separate from regular terms)](https://www.lg.com
 > 
 > Arbitration Rules and Procedures. To begin arbitration of a claim, either you or LG must make a written demand for arbitration. The arbitration will be administered by the American Arbitration Association ("AAA") and will be conducted before a single arbitrator under the AAA's Consumer Arbitration Rules that are in effect at the time the arbitration is initiated (referred to as the "AAA Rules") and under the procedures set forth in this section. The AAA Rules are available online at www.adr.org/consumer. Send a copy of your written demand for arbitration, as well as a copy of this provision, to the AAA in the manner described in the AAA Rules. You must also send a copy of your written demand to LG at LG Electronics, USA, Inc. Attn: Legal Department- Arbitration 1000 Sylvan Avenue Englewood Cliffs, NJ 07632. If there is a conflict between the AAA Rules and the rules set forth in this section, the rules set forth in this section will govern. This arbitration provision is governed by the Federal Arbitration Act. Judgment may be entered on the arbitrator's award in any court of competent jurisdiction. All issues are for the arbitrator to decide, except that issues relating to the scope and enforceability of the arbitration provision and to the arbitrability of the dispute are for the court to decide. The arbitrator is bound by the terms of this provision.
 
+## Microsoft
+
+Introduced and Updated: 2017 (From Wayback Machine/archive.org data)
+
+Type: American Arbitration Association (AAA)
+
+Restrictions:
+- Small claims: Allowed
+- Class Action: Not allowed
+
+Text in [Arbitration page](https://www.microsoft.com/en-us/legal/arbitration):
+
+> We’ve added informal dispute resolution and binding arbitration clauses to many of our agreements and warranties for customers who live in the United States. Those agreements encourage Microsoft to resolve disputes informally within 60 days. If we can’t, either of us may commence arbitration with the American Arbitration Association. An impartial arbitrator near where you live—or in King County (Seattle area), Washington, if you prefer—will consider both sides and resolve the dispute promptly. Or you can bring an action in small claims court, either in the county where you live or in King County, Washington if you meet the court’s normal requirements.
+>
+> Our arbitration agreements offer speedy and fair individual dispute resolution, but do not permit class action lawsuits or class-wide arbitration for customers who live in the United States. Class action lawsuits usually last for years. Our agreements strongly encourage Microsoft to resolve disputes informally before they get to arbitration, and our arbitration provisions are among the most generous in the country. For instance, we promptly reimburse filing fees, and, where we offer less to resolve a dispute informally than an arbitrator ultimately awards, we will pay the greater of the award or $1,000 for most software, devices, or services plus the customer’s reasonable attorney’s fees.
+>
+> Send us a Notice of Dispute only if you’ve tried to get help from a customer service representative first and are unsatisfied with the resolution.
+
 ## Paypal
 
 Introduced and Updated: January 16th, 2024

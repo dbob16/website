@@ -1,19 +1,13 @@
-<div id="footer1" class="hc p075">
-    <div id="footercolumns" class="gr60-40">
-        <div id="fc1">
-            <h2>Other Links</h2>
-            <ul class="fcl db">
-                {{- range .Site.Menus.footer }}
-                <li><a href="{{ .URL }}" class="lb db w100">{{ .Title }}</a></li>
-                {{- end }}
-            </ul>
-        </div>
-        <div id="fc2">
-            {{- partial "sociallinks" . }}
-        </div>
-    </div>
+<footer>
+<div id="footermenu" class="flex">
+{{- range .Site.Menus.footer }}
+<div class="footer-item">
+<a href="{{ .URL }}">{{ .Title }}</a>
 </div>
-<div id="footer2" class="rf tac mtb1">
-    <p>Built by <a href="https://www.gillulyit.com" target="_blank" rel="noopener noreferrer">Gilluly IT Services, LLC</a> in Hugo.</p>
-    <p>&copy; 2022 - {{ dateFormat "2006" now }} Dilan Gilluly</p>
+{{- end }}
 </div>
+<div id="footerattr">
+<p>Created in Hugo by <a href="https://www.gillulyit.com/" target="_blank" rel="noopener noreferrer">Gilluly IT Services</a>.</p>
+<p>&copy; 2022 - 2025 Dilan Gilluly</p>
+</div>
+</footer>

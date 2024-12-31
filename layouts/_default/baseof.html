@@ -1,18 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{ .Summary }}">
-    <title>{{- block "pagetitle" . }}{{ .Title }} | {{ .Site.Title }}{{- end }}</title>
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="shortcut icon" href="/favicon.jpg" type="image/x-icon">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{- block "title" . }}{{ .Title }} | {{ .Site.Title }}{{- end }}</title>
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css">
+<link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.jpg" type="image/x-icon">
 </head>
-<body>
-    {{- partial "header" . }}
-    {{- partial "navbar" . }}
-    {{- block "main" . }}
-    {{- end }}
-    {{- partial "footer" . }}
+<body onload="setResponse()">
+<div id="header">
+{{- partial "header.html" . }}
+</div>
+<div id="menubutton"><a href="javascript:void(0)" id="menubutton-link" class="block" onclick="toggleMenu()">Menu</a></div>
+<div id="navbar" class="flex">
+{{- partial "navbar.html" . }}
+</div>
+<div id="main">
+{{- block "main" . }}
+This is where the page content will go.
+{{- end }}
+</div>
+<div id="footer">
+{{- partial "footer.html" . }}
+</div>
+<script src="{{ .Site.BaseURL }}js/scripts.js">
+</script>
 </body>
 </html>

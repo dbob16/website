@@ -1,23 +1,21 @@
 {{- define "pagetitle" }}{{ .Site.Title }}{{- end }}
 
 {{- define "main" }}
-<div id="main" class="hc p1 rf mb1">
-    <main>
-        {{ .Content }}
-    </main>
+<div id="contentbody">
+<main>
+{{ .Content }}
+</main>
 </div>
-<div id="bloglist" class="hc p1 mb1">
-    <ul class="fcl">
-        {{- range where .Site.RegularPages "Section" "blog" | first 3 }}
-        <li> <article>
-            <a href="{{ .Permalink }}"><b>{{ .Title }}</b></a><br>
-            {{ .Date.Format "2006-01-02 at 03:04PM"}}<br>
-            <p class="rf">{{ .Summary }}</p>
-            {{- if .Truncated }}
-            <p><a href="{{ .Permalink }}">Read more...</a></p>
-            {{- end }}
-        </article> </li>
-        {{- end }}
-    </ul>
+<div id="pagelist">
+{{- range where .Site.RegularPages "Section" "blog" | first 3 }}
+<div class="page-item">
+<a href="{{ .RelPermalink }}" class="block">{{ .Title }}</a>
+<p><em>{{ .Date.Format "2006 Jan 02 at 03:04PM" }}</em></p>
+<p>{{ .Summary }}</p>
+{{- if .Truncated }}
+<a href="{{ .RelPermalink }}" class="block">Read More</a>
+{{- end }}
+</div>
+{{- end }}
 </div>
 {{- end }}

@@ -1,10 +1,12 @@
-<div id="header" class="flex hc p075">
-    {{- if .Site.Params.sitelogo }}
-    <div id="sitelogo">
-        <img src="{{ .Site.Params.sitelogo}}" alt="Site logo" class="thumb">
-    </div>
-    {{- end }}
-    <div id="sitetitle">
-        <h1>{{ .Site.Title }}</h1>
-    </div>
+<header>
+<a href="{{ .Site.BaseURL }}" class="flex">
+{{- if .Site.Params.sitelogo }}
+<div id="sitelogo">
+<img src="{{ .Site.BaseURL }}{{ .Site.Params.sitelogo }}" alt="Site Logo">
 </div>
+{{- end }}
+<div id="sitetitle">
+<h1>{{ .Site.Title }}</h1>
+</div>
+</a>
+</header>
