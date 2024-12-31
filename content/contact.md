@@ -1,11 +1,11 @@
-+++
-lastmod = 2023-11-25T17:03:00-05:00
-title = 'Contact'
-draft = false
-[menu]
-  [menu.main]
-    weight = 4
-+++
+---
+lastmod: '2023-11-25T17:03:00-05:00'
+title: 'Contact'
+draft: false
+menu:
+  main:
+    weight: 4
+---
 
 I'm basic, I just have an email that I use as a primary contact funnel. And that is gillulyd AT gmail DOT com.
 

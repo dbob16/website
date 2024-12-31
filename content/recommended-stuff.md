@@ -1,11 +1,11 @@
-+++
-lastmod = 2024-05-13T13:03:00-04:00
-title = 'Stuff I Recommend'
-draft = false
-[menu]
-  [menu.footer]
-    weight = 1
-+++
+---
+lastmod: '2024-05-13T13:03:00-04:00'
+title: 'Stuff I Recommend'
+draft: false
+menu:
+  footer:
+    weight: 1
+---
 
 This is a page I'll update on the regular (hopefully) with some things I use and recommend. Feel free to check back to see if anything has changed.
 

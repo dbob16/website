@@ -1,11 +1,11 @@
-+++
-lastmod = 2024-03-31T13:24:00-04:00
-title = 'Forced Arbitration Tracker'
-draft = false
-[menu]
-  [menu.footer]
-    weight = 2
-+++
+---
+lastmod: '2024-03-31T13:24:00-04:00'
+title: 'Forced Arbitration Tracker'
+draft: false
+menu:
+  footer:
+    weight: 2
+---
 
 After receiving a slew of emails about updated policies from various companies within the past few months, many of which are sneaking in the Forced Arbitration clauses which either force or  trick users into opting out of the legal ability to sue or join class action lawsuits.
 

@@ -1,11 +1,11 @@
-+++
-lastmod = 2024-01-28T09:17:43-05:00
-title = 'Subscribe'
-draft = false
-[menu]
-  [menu.main]
-    weight=5
-+++
+---
+lastmod: 2024-01-28T09:17:43-05:00
+title: 'Subscribe'
+draft: false
+menu:
+  main:
+    weight: 5
+---
 
 On this page you will find links to my RSS feeds for this site. Hugo generates them automagically so I figured that I might as well take advantage of them. Then I'll leave the rest up to my audience so they can choose what RSS reader they want to use.
 
