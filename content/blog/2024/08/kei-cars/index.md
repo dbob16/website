@@ -6,6 +6,8 @@ draft: false
 
 In recent news, another state joins the odd movement of banning Kei cars, Massachusetts. More in [this article on ArsTechnica.com](https://arstechnica.com/cars/2024/08/states-keep-banning-cheap-little-kei-cars-for-fear-theyre-deathtraps/).
 
+<!--more-->
+
 ## Another end to free choice
 
 One of the best virtues of the United States as a country was the ability to choose, as a consumer, what products we as a people want to buy. And a few power players in the different industries are moving to change that because they want less competition.

@@ -8,6 +8,8 @@ I may be a little weird, sitting down to do some updates to my website on my bir
 
 So here I am. Highlighting the updates.
 
+<!--more-->
+
 * Pages now have revision dates
     * I'm surprised this one took me as long as it did, as one of my pet peeves are static information pages on the internet which do not have a revision or "last modified" date on them. So it is hard to tell if information on the internet is up to date or not.
 * Blog page now has a paginator functionality built-in

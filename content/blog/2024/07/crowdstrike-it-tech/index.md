@@ -8,6 +8,8 @@ One of the things that was big in the news was the CrowdStrike global outage whi
 
 Linux heads, you're not impervious to issues like this as [this article here](https://www.tomshardware.com/software/linux/crowdstrike-issues-go-beyond-windows-companys-security-software-has-reportedly-been-causing-kernel-panics-since-at-least-april) points out.
 
+<!--more-->
+
 ## Not a breach
 
 One thing I want to make clear before I get too involved is that this problem is not a breach or other cybersecurity incident. It was simply a botched content update file at the end of the day.

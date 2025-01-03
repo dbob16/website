@@ -6,6 +6,8 @@ draft: false
 
 Over the course of my ownership of it so far, my Framework 13 has become quite the conversation piece. Either someone will notice that the brand emblem isn't familiar with them or they will ask me what kind of laptop it is and I'll watch them grow more and more confused as I say "Framework" over and over again.
 
+<!--more-->
+
 ## A little background
 
 Framework as a company started on the principle that users' devices should be repairable from top to bottom. So they set out to build their laptop with that idea. The Framework 13 was their first and the flagship for a while, named after the fact that it is a 13 inch form factor.

@@ -8,6 +8,8 @@ This essentially marks a year and a half I've been at bat against apparent misun
 
 For those who may not have gotten the whole story, here goes:
 
+<!--more-->
+
 ## Initial friction
 
 A year and a half ago I shared a video link. To be honest, I didn't agree with some of the presented content of said video, but I shared it because one of the people being interviewed was an ex-addict who was critiquing San Francisco's response to their drug epidemic. Which is why I shared the video, it was interesting.

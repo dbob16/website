@@ -8,6 +8,8 @@ A couple of months ago I woke up with an email from Blogger. Stating that I had 
 
 If I were to guess, it probably would be that they didn't like how I was critical of President Joe Biden in my article titled "The dangers of sweeping surveillance camera regulations" in this new world of big tech favoring candidates solely based on what party they run under.
 
+<!--more-->
+
 In a Youtube rabbit-hole I discovered a new way to make sites, and that is [Hugo](https://gohugo.io). The video that showed me most of what I needed to know to do so was Luke Smith's [Hugo Actually Explained](https://youtu.be/ZFL09qhKi5I) video.
 
 After some playing around with relearning HTML and CSS, I patched together my own Hugo site.

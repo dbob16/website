@@ -6,6 +6,8 @@ draft: false
 
 I figured I'd write a progress update about some of the projects I had been working on since this is one of the few weekends I'm bored at home due to having to do a medical test.
 
+<!--more-->
+
 ## Ticket Auction Manager - Python Edition
 
 For a little while I have been working on an edition of Ticket Auction Manager which is written in Python to make it available to those who don't have access to Microsoft products and those who wish not to use them.

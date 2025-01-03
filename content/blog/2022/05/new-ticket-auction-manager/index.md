@@ -6,6 +6,8 @@ draft: false
 
  I released a new version of the Access database I use to manage the annual SPCA Theme Basket Auction for the SPCA Serving Allegany County. The changes are below:
 
+ <!--more-->
+
 * Built from the ground up to be more streamlined to fit smaller screens better.
 * New script based (VBA) row creation method. Which means no more tally table, essentially eliminating multiple problems.
     * Hard row limit - With the prior tally table, since I filled it up to 1 million rows, anything past that it wouldn't be able to create rows for it. The new method is only limited by VBA's Long Integer datatype, which I tested up to the 30 million range.

@@ -6,6 +6,8 @@ draft: false
 
 One of the things in the news that struck my attention is the eBay stalking and harassment scandal. Some of the final details of it broke a few weeks ago but it saw a resurgence among Youtube creators after being buried in the news sites' algorithms.
 
+<!--more-->
+
 The TLDR of the story is that a blogging couple criticized eBay over a lawsuit which they brought up against Amazon. In response instead of clarifying their reasons why, their employees decided to take it upon themselves to harass, stalk, and terrify the couple, allegedly (gotta cover my own a--); doing things like sending them bloody pig masks, live cockroaches, and also attempting to place a tracker on their car.
 
 [News story on Gizmodo here](https://gizmodo.com/ebay-stalking-harassing-lawsuit-fines-penalties-steiner-1851160863)

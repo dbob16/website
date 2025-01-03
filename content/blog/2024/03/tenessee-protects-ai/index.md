@@ -8,6 +8,8 @@ In a strange turn of events, Tennessee becomes the first US state to protect mus
 
 This is a response to the news article [on apnews.com](https://apnews.com/article/artificial-intelligence-ai-music-songwriting-tennessee-eb95c850f13fd78f9e65abce2ee45091).
 
+<!--more-->
+
 ## AI's potential negative impact
 
 While AI has the potential to help with a lot of things, it's potential negative impact is also there. Scammers are already using it to mimic the voice of other individuals to perform some money transfer scams.

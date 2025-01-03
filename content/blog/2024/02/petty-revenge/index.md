@@ -6,6 +6,8 @@ draft: false
 
 Like any good story involving banks or another service, this one starts with some added fees which were not explained well at the time. Which is where this one starts.
 
+<!--more-->
+
 ## The Backstory
 
 I got one of my mortgage statements in the mail. While combing through it I realized that my balance went up instead of it going down. And this is despite me paying extra towards the principle.

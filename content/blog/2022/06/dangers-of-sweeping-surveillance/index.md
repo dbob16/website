@@ -6,6 +6,8 @@ draft: false
 
 Out of most of the news articles posted in the past decade, one of the ones that I've been following the most pertains to the security camera debacle which includes Hikvision and Dahua, among a few others. And some people think they're good because they don't, or have never owned a security camera system under either of those names.
 
+<!--more-->
+
 For a little backstory on what has been going on. In 2019, under Trump's administration, [Hikvision and a few others were barred from being used to fulfill federal government contracts](https://www.reuters.com/article/us-usa-china-contracting-idINKCN25928Y). While this action didn't effect consumers as much as the [Secure Networks Act of 2021 (signed into law by President Biden on November 11, 2021)](https://www.securityinformed.com/news/hikvision-dahua-require-fcc-equipment-authorisation-co-1508-ga-co-8578-ga-co-14002-ga-co-1564134737-ga.1635837325.html#:~:text=FCC%20in%20U.S.%20Will%20Not,Import%20Products%20Under%20New%20Law&text=The%20Secure%20Networks%20Act%20targets,11%2C%202021.) will once its effects are realized.
 
 The Secure Networks Act forbids the FCC to issue new authorizations to companies with ties to the Chinese government in the video surveillance and physical security segments. Also, it grants the FCC authority to revoke current authorizations. Currently it hasn't exercised its newfound authority, so for the time being companies which already have it are okay to sell for the most part.
