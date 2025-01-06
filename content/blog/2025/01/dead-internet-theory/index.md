@@ -2,6 +2,8 @@
 title: 'Dead Internet Theory'
 date: '2025-01-03T10:03:57-05:00'
 draft: false
+params:
+  comments: true
 ---
 
 Dead internet theory is a theory that the internet as we had gotten to know it is starting to die out. Some consider it a conspiracy theory due to them not noticing some signs that it could be true. It is safe to say that after the last couple of months, I've noticed enough signs to be a believer myself. Here's why:

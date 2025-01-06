@@ -7,7 +7,7 @@
 </main>
 </div>
 <div id="pagelist">
-{{- range where .Site.RegularPages "Section" "blog" | first 3 }}
+{{- range where .Site.RegularPages "Section" "blog" | first 5 }}
 <div class="page-item">
 <a href="{{ .RelPermalink }}" class="block">{{ .Title }}</a>
 <p><em>{{ .Date.Format "2006 Jan 02 at 03:04PM" }}</em></p>

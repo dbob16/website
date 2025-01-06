@@ -2,6 +2,8 @@
 title: 'Let them have Kei cars'
 date: '2024-08-19T11:00:50-04:00'
 draft: false
+params:
+  comments: true
 ---
 
 In recent news, another state joins the odd movement of banning Kei cars, Massachusetts. More in [this article on ArsTechnica.com](https://arstechnica.com/cars/2024/08/states-keep-banning-cheap-little-kei-cars-for-fear-theyre-deathtraps/).
