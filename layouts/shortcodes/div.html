@@ -1,0 +1,3 @@
+<div{{ with .Get "class" }} class="{{ . }}"{{ end }}>
+{{ .Inner | .Page.RenderString | safeHTML }}
+</div>
