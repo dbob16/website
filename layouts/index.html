@@ -6,7 +6,7 @@
 {{ .Content }}
 </main>
 </div>
-<div id="pagelist">
+<div id="pagelist" class="flex">
 {{- range where .Site.RegularPages "Section" "blog" | first 5 }}
 <div class="page-item">
 <a href="{{ .RelPermalink }}" class="block">{{ .Title }}</a>
