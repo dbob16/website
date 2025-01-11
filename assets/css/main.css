@@ -235,6 +235,13 @@ a.whitelink:hover {
     justify-content: center;
 }
 
+#footer #footermenu a {
+    display: block;
+    padding: 10px 20px;
+    border-radius: 7px;
+    background-color: #222;
+}
+
 @media (min-width: 700px) {
     .g2 {
         grid-template-columns: 1fr 1fr;
