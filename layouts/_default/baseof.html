@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="{{ $style.Permalink }}">
 <link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.jpg" type="image/x-icon">
 {{- $scripts := resources.Get "js/scripts.js" | fingerprint }}
-<script src="{{ $scripts.Permalink }}"></script>
+<script src="{{ $scripts.Permalink }}" defer></script>
 </head>
 <body onload="setResponse()">
 <div id="header">

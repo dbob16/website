@@ -10,6 +10,8 @@ So you recently exchange someone's computer, then get asked to transfer their Fi
 
 For me, at least for a while, it was to pull the files off of the computer, and fetch them using MozBackup. Well, that was a no go this time around because of obvious reasons.
 
+<!--more-->
+
 ![Banner showing depreciation of MozBackup](MozBackupBanner.webp)
 
 So what is an old-school technician who has a hard time saying "I can't" supposed to do?
