@@ -1,5 +1,5 @@
 ---
-lastmod: '2025-01-08T10:46:14-05:00'
+lastmod: '2025-01-26T23:57:19-05:00'
 title: 'Links'
 draft: false
 menus:
@@ -13,7 +13,7 @@ So you've stumbled upon the page where I keep the links to my social media accou
 
 [![Facebook Logo](facebook.webp) Facebook @dgilluly](https://www.facebook.com/dgilluly/)
 
-[![Mastodon Logo](mastodon.webp) Mastodon allthingstech@dgilluly](https://allthingstech.social/@dgilluly)
+[![Mastodon Logo](mastodon.webp) Mastodon on Infosec.exchange](https://infosec.exchange/@techguydilan)
 
 [![Last.Fm Logo](lastfm.jpg) Last.fm /dgilluly](https://www.last.fm/user/dgilluly)
 
