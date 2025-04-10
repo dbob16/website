@@ -1,10 +1,10 @@
----
-title: 'Transferring Firefox Bookmarks'
-date: '2024-09-07T21:16:14-04:00'
-draft: false
-params:
-  comments: true
----
++++
+date = '2024-09-07T21:16:14-04:00'
+draft = false
+title = 'Transferring Firefox Bookmarks'
+[params]
+  comments = true
++++
 
 So you recently exchange someone's computer, then get asked to transfer their Firefox bookmarks, there is no Sync account setup so they're on the person's old computer. What's your plan of action?
 

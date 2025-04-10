@@ -1,8 +1,8 @@
----
-title: 'Progress Updates'
-date: '2024-01-27T12:32:38-05:00'
-draft: false
----
++++
+date = '2024-01-27T12:32:38-05:00'
+draft = false
+title = 'Progress Updates'
++++
 
 I figured I'd write a progress update about some of the projects I had been working on since this is one of the few weekends I'm bored at home due to having to do a medical test.
 

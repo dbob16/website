@@ -1,8 +1,8 @@
----
-title: 'New Ticket Auction Manager Version'
-date: '2022-05-06'
-draft: false
----
++++
+date = '2022-05-06'
+draft = false
+title = 'New Ticket Auction Manager Version'
++++
 
  I released a new version of the Access database I use to manage the annual SPCA Theme Basket Auction for the SPCA Serving Allegany County. The changes are below:
 

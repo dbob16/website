@@ -1,8 +1,8 @@
----
-title: 'Ebay Stalking Scandal'
-date: '2024-01-30T10:27:30-05:00'
-draft: false
----
++++
+date = '2024-01-30T10:27:30-05:00'
+draft = false
+title = 'Ebay Stalking Scandal'
++++
 
 One of the things in the news that struck my attention is the eBay stalking and harassment scandal. Some of the final details of it broke a few weeks ago but it saw a resurgence among Youtube creators after being buried in the news sites' algorithms.
 

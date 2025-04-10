@@ -1,8 +1,8 @@
----
-title: "Why I'm reducing my Facebook usage"
-date: '2023-12-11T10:26:04-05:00'
-draft: false
----
++++
+date = '2023-12-11T10:26:04-05:00'
+draft = false
+title = "Why I'm reducing my Facebook usage"
++++
 
 This essentially marks a year and a half I've been at bat against apparent misunderstandings on the behalf of Facebook's AI moderation technology, if that's not just one of their own lame duck excuses.
 

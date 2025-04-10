@@ -1,8 +1,8 @@
----
-title: 'The Dangers of Sweeping Surveillance'
-date: '2022-06-24'
-draft: false
----
++++
+date = '2022-06-24'
+draft = false
+title = 'The Dangers of Sweeping Surveillance'
++++
 
 Out of most of the news articles posted in the past decade, one of the ones that I've been following the most pertains to the security camera debacle which includes Hikvision and Dahua, among a few others. And some people think they're good because they don't, or have never owned a security camera system under either of those names.
 

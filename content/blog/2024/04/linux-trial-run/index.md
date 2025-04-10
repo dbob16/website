@@ -1,8 +1,8 @@
----
-title: "Doing another Linux trial run"
-date: '2024-04-09T15:29:25-04:00'
-draft: false
----
++++
+date = '2024-04-09T15:29:25-04:00'
+draft = false
+title = 'Doing another Linux trial run'
++++
 
 After I noticed some more changes to Microsoft's Windows lately I decided to give Linux another go. Currently on Debian for my laptop, though that may change in the future, and I selected EndeavorOS on my desktop due to my graphics card being too new for Debian.
 

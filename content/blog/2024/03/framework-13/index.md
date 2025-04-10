@@ -1,8 +1,8 @@
----
-title: 'Thoughts about my Framework 13'
-date: '2024-03-08T15:18:20-05:00'
-draft: false
----
++++
+date = '2024-03-08T15:18:20-05:00'
+draft = false
+title = 'Thoughts about my Framework 13'
++++
 
 Over the course of my ownership of it so far, my Framework 13 has become quite the conversation piece. Either someone will notice that the brand emblem isn't familiar with them or they will ask me what kind of laptop it is and I'll watch them grow more and more confused as I say "Framework" over and over again.
 

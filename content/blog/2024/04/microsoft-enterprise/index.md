@@ -1,8 +1,8 @@
 +++
-title = 'Is Microsoft good for Enterprises?'
-date = 2024-04-23T11:27:50-04:00
-url = '/blog/2024/04/microsoft-enterprise.html'
+date = '2024-04-23T11:27:50-04:00'
 draft = false
+title = 'Is Microsoft good for Enterprises?'
+url = '/blog/2024/04/microsoft-enterprise.html'
 +++
 
 Contrary to my previous article, just wanted to post one to highlight one area where continuing to use Microsoft and Windows for now makes much more sense, Enterprises.

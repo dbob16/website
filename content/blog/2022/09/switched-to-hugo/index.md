@@ -1,8 +1,8 @@
----
-title: 'Switched to Hugo'
-date: '2022-09-25'
-draft: false
----
++++
+date = '2022-09-25'
+draft = false
+title = 'Switched to Hugo'
++++
 
 A couple of months ago I woke up with an email from Blogger. Stating that I had been suspended indefinitely for no stated reason.
 

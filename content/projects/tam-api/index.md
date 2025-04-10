@@ -1,7 +1,7 @@
 +++
-lastmod = 2024-10-16T15:20:33-04:00
-title = 'Ticket Auction Manager'
 draft = false
+lastmod = '2024-10-16T15:20:33-04:00'
+title = 'Ticket Auction Manager'
 +++
 
 Before publishing this I decided to entirely rewrite Ticket Auction Manager, from scratch, using Python and FastAPI.

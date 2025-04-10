@@ -1,11 +1,11 @@
----
-lastmod: '2025-01-26T23:57:19-05:00'
-title: 'Links'
-draft: false
-menus:
-  main:
-    weight: 5
----
++++
+draft = false
+lastmod = '2025-01-26T23:57:19-05:00'
+title = 'Links'
+[menus]
+  [menus.main]
+    weight = 5
++++
 
 So you've stumbled upon the page where I keep the links to my social media accounts and rss.
 

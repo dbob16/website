@@ -1,8 +1,8 @@
----
-title: 'Ticket Auction Manager becoming more crossplatform'
-date: '2024-06-28T11:13:00-04:00'
-draft: false
----
++++
+date = '2024-06-28T11:13:00-04:00'
+draft = false
+title = 'Ticket Auction Manager becoming more crossplatform'
++++
 
 Now that I've primarly switched over to Linux, I have been working on another Python version of Ticket Auction Manager. This time under my dbob16/tam-py repo. Because Python is more flexible as a programming language, it has one extra feature compared to the Access-based versions prior.
 

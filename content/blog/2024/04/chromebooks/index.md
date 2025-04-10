@@ -1,8 +1,8 @@
----
-title: 'False Advertising: Chromebook edition'
-date: '2024-05-14T09:40:27-04:00'
-draft: false
----
++++
+date = '2024-05-14T09:40:27-04:00'
+draft = false
+title = 'False Advertising: Chromebook edition'
++++
 
 Oops, accidentally published this without finishing it, so here goes:
 

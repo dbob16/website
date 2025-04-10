@@ -1,10 +1,10 @@
----
-title: 'Tiktok Ban Revisited'
-date: '2025-01-24T14:22:12-05:00'
-draft: false
-params:
-  comments: true
----
++++
+date = '2025-01-24T14:22:12-05:00'
+draft = false
+title = 'Tiktok Ban Revisited'
+[params]
+  comments = true
++++
 
 The TikTok ban is something that is difficult to even follow the history of even for some of us who follow technology news.
 

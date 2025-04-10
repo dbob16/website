@@ -1,8 +1,8 @@
----
-title: 'Well... That Was Quick'
-date: '2024-06-02T23:36:46-04:00'
-draft: false
----
++++
+date = '2024-06-02T23:36:46-04:00'
+draft = false
+title = 'Well... That Was Quick'
++++
 
 In recent news, Microsoft rolls out a new AI feature which will be available and possibly on by default for devices labelled with the "Copilot+" badging, called Recall. Which saves screenshots every few seconds and uses AI-backed optical character recognition as well as AI identification of images to save descriptors of said activities.
 

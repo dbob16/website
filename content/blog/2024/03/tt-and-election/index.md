@@ -1,8 +1,8 @@
----
-title: 'TikTok and the Election'
-date: '2024-03-14T09:42:04-04:00'
-draft: false
----
++++
+date = '2024-03-14T09:42:04-04:00'
+draft = false
+title = 'TikTok and the Election'
++++
 
 From what I'm seeing in the news, it looks like potential TikTok bans will play a role in the election.
 

@@ -1,8 +1,8 @@
----
-title: 'Tennessee Protecting Singers/Songwriters Against AI'
-date: '2024-03-24T10:21:40-04:00'
-draft: false
----
++++
+date = '2024-03-24T10:21:40-04:00'
+draft = false
+title = 'Tennessee Protecting Singers/Songwriters Against AI'
++++
 
 In a strange turn of events, Tennessee becomes the first US state to protect musicians and songwriters against AI. Which a red state protecting its citizens against overreaches of private innovation was aout of the cards, at least according to Democrats.
 

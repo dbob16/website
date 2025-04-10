@@ -1,8 +1,8 @@
----
-title: 'Petty Revenge: Mortgage payoff'
-date: '2024-02-22T23:35:39-05:00'
-draft: false
----
++++
+date = '2024-02-22T23:35:39-05:00'
+draft = false
+title = 'Petty Revenge: Mortgage payoff'
++++
 
 Like any good story involving banks or another service, this one starts with some added fees which were not explained well at the time. Which is where this one starts.
 

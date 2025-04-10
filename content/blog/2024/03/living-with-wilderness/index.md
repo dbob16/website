@@ -1,8 +1,8 @@
----
-title: 'Living With a Forester Wilderness'
-date: '2024-03-10T23:47:04-04:00'
-draft: false
----
++++
+date = '2024-03-10T23:47:04-04:00'
+draft = false
+title = 'Living With a Forester Wilderness'
++++
 
 ![Subaru Wilderness emblem on a Geyser Blue Forester Wilderness](WildernessEmblem.jpg)
 

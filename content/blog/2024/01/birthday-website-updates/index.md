@@ -1,8 +1,8 @@
----
-title: 'Birthday Website Updates'
-date: '2024-01-28T09:59:19-05:00'
-draft: false
----
++++
+date = '2024-01-28T09:59:19-05:00'
+draft = false
+title = 'Birthday Website Updates'
++++
 
 I may be a little weird, sitting down to do some updates to my website on my birthday. But this is the way I express myself, is by having a personal website.
 

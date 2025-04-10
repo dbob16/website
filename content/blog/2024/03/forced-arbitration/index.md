@@ -1,8 +1,8 @@
----
-title: 'The Age of Forced Arbitration'
-date: '2024-03-26T13:40:22-04:00'
-draft: false
----
++++
+date = '2024-03-26T13:40:22-04:00'
+draft = false
+title = 'The Age of Forced Arbitration'
++++
 
 In the world of identity politics and constant tragedy, often times policy changes get overlooked by the people. I think currently one of those things is forced arbitration.
 

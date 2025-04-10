@@ -1,8 +1,8 @@
----
-title: "Crowdstrike Outage: Technician's Explanation"
-date: '2024-07-28T12:19:49-04:00'
-draft: false
----
++++
+date = '2024-07-28T12:19:49-04:00'
+draft = false
+title = "Crowdstrike Outage: Technician's Explanation"
++++
 
 One of the things that was big in the news was the CrowdStrike global outage which effected Windows computers which were running CrowdStrike's Falcon sensor. [News article here](https://www.techtarget.com/whatis/feature/Explaining-the-largest-IT-outage-in-history-and-whats-next).
 

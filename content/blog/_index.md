@@ -1,7 +1,7 @@
 +++
-lastmod = 2023-11-23T13:34:00-05:00
-title = 'Blog'
 draft = false
+lastmod = '2023-11-23T13:34:00-05:00'
+title = 'Blog'
 [menu]
   [menu.main]
     weight = 2

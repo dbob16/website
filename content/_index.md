@@ -1,11 +1,11 @@
----
-lastmod: '2024-01-28T13:22:00-05:00'
-title: 'Home'
-draft: false
-menu:
-  main:
-    weight: 1
----
++++
+draft = false
+lastmod = '2024-01-28T13:22:00-05:00'
+title = 'Home'
+[menu]
+  [menu.main]
+    weight = 1
++++
 
 My name is Dilan Gilluly and welcome to my site. By day I'm a tier 2/3 tech support representative and by night I like to tinker with technology, exercise, and read.
 
