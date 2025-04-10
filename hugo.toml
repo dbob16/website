@@ -1,0 +1,11 @@
+baseURL = "https://www.dilangilluly.us/"
+languageCode = "en-us"
+title = "Dilan's Site"
+
+[pagination]
+pagerSize = 7
+path = "pg"
+
+[params]
+author = "Dilan Gilluly"
+sitelogo = "pics/header.webp"
