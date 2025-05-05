@@ -11,7 +11,7 @@
 {{- $scripts := resources.Get "js/scripts.js" | fingerprint }}
 <script src="{{ $scripts.Permalink }}" defer></script>
 </head>
-<body onload="setResponse()">
+<body>
 <div id="header">
 {{- partial "header.html" . }}
 </div>

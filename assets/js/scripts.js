@@ -26,4 +26,5 @@ function setResponse() {
     };
 };
 
+document.addEventListener("DOMContentLoaded", setResponse)
 window.addEventListener("resize", setResponse)
