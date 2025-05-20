@@ -26,5 +26,12 @@ function setResponse() {
     };
 };
 
-document.addEventListener("DOMContentLoaded", setResponse)
+document.addEventListener("DOMContentLoaded", () => {
+    setResponse()
+    const placeholder404 = document.getElementById("pagepath")
+    if (placeholder404) {
+        placeholder404.innerText = window.location.pathname
+    }
+})
+
 window.addEventListener("resize", setResponse)

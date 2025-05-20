@@ -6,8 +6,4 @@
 <p>The page at <em><span id="pagepath"></span></em> was not found. Please check to make sure that was the page you were trying to reach.</p>
 <p><a href="{{ .Site.BaseURL }}">Return to home</a>.</p>
 </div>
-<script>
-const spanpagepath = document.getElementById("pagepath")
-spanpagepath.innerText = window.location.pathname
-</script>
 {{- end }}
