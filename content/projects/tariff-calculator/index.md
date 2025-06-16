@@ -14,6 +14,8 @@ The following is a tariff calculator which I created after reviewing some other 
 
 <!--more-->
 
+{{< webapplink tariff-calculator >}}
+
 The webapp should be rendered in an iframe below:
 
 {{< webapp tariff-calculator >}}

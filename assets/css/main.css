@@ -157,6 +157,7 @@ a.whitelink:hover {
     }
 
     iframe.webapp {
+        width: 100%;
         aspect-ratio: auto;
         height: 90dvh;
     }
