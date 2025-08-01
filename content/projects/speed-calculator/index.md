@@ -1,5 +1,5 @@
 +++
-lastmod = '2025-06-11T14:55:36-04:00'
+lastmod = '2025-06-16T22:11:19-04:00'
 title = 'Speed Calculator'
 draft = false
 +++
