@@ -1,7 +1,7 @@
 +++
 title = 'Why Kosa is Bad'
 date = '2025-08-01T17:21:33-0400'
-draft = false
+draft = true
 [params]
   comments = true
   toc = true
