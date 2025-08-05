@@ -1,0 +1,10 @@
+<div class="pagelist">
+{{- range .RegularPages.ByTitle }}
+<a class="pagelink" href="{{ .RelPermalink }}">
+<h2>{{ .Title }}</h2>
+{{- with .Description }}
+{{ . }}
+{{- end }}
+</a>
+{{- end }}
+</div>

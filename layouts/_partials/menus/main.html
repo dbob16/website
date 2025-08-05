@@ -1,0 +1,14 @@
+<a id="menu-button">Menu</a>
+<div id="main-menu">
+<nav>
+{{- range .Site.Menus.main }}
+<div class="menu-item">
+{{- if or (page.HasMenuCurrent "main" .) (page.IsMenuCurrent "main" .)}}
+<a href="{{ .URL }}" class="active">{{ .Title }}</a>
+{{- else }}
+<a href="{{ .URL }}">{{ .Title }}</a>
+{{- end }}
+</div>
+{{- end }}
+</nav>
+</div>

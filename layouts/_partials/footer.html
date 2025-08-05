@@ -1,13 +1,14 @@
-<footer>
-<div id="footermenu" class="flex">
-{{- range .Site.Menus.footer }}
-<div class="footer-item">
-<a href="{{ .URL }}">{{ .Title }}</a>
+<div class="footer-menus">
+<div>
 </div>
+<div>
+</div>
+<div>
+<div class="menu-title">
+<p><strong>Other Pages</strong></p>
+</div>
+{{- range .Site.Menus.footer }}
+<div class="menu-item"><a href="{{ .URL }}" class="menu-link">{{ .Title }}</a></div>
 {{- end }}
 </div>
-<div id="footerattr">
-<p>Created in Hugo by <a href="https://www.gillulyit.com/" target="_blank" rel="noopener noreferrer">Gilluly IT Services</a>.</p>
-<p>&copy; 2022 - 2025 Dilan Gilluly</p>
 </div>
-</footer>

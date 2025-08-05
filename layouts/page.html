@@ -1,11 +1,32 @@
 {{- define "main" }}
-<div id="contentbody">
+{{- $blogstyle := slice "blog" "articles" -}}
+<div id="content-pane">
+<div id="main-content">
+{{- partial "toc" . }}
 <main>
 <h1>{{ .Title }}</h1>
-{{ .Content }}
-{{- if .Lastmod }}
-<p>Last modified: {{ .Lastmod.Format "Jan 02, 2006 at 03:04PM" }}</p>
+{{- if (in $blogstyle .Section) }}
+<p>Posted on: <em>{{ .Date.Format "Monday, January 2, 2006 at 03:04PM"}}</em></p>
 {{- end }}
+{{ .Content }}
 </main>
+{{- if (in $blogstyle .Section) }}
+<div class="pagination">
+<div class="next">
+{{- with .NextInSection }}
+<a href="{{ .RelPermalink }}">< Next<br />{{ .Title }}</a>
+{{- end }}
+</div>
+<div class="prev">
+{{- with .PrevInSection }}
+<a href="{{ .RelPermalink }}">Prev ><br />{{ .Title }}</a>
+{{- end }}
+</div>
+</div>
+{{- end }}
+</div>
+<div id="r-sidebar">
+{{ partial "sidebar" . }}
+</div>
 </div>
 {{- end }}

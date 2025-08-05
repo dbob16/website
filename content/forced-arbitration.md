@@ -2,9 +2,10 @@
 draft = false
 lastmod = '2024-03-31T13:24:00-04:00'
 title = 'Forced Arbitration Tracker'
-[menu]
-  [menu.footer]
-    weight = 2
+[params]
+toc = true
+[menu.footer]
+  weight = 2
 +++
 
 After receiving a slew of emails about updated policies from various companies within the past few months, many of which are sneaking in the Forced Arbitration clauses which either force or  trick users into opting out of the legal ability to sue or join class action lawsuits.
@@ -16,8 +17,6 @@ If this offends any company sneaking in forced arbitration, I'm not sorry, and I
 I am very against this because it sets a precedent to not hold companies accountable for repeated failures, planned obsolescence, making things unrepairable, privacy invasions, price gouging, and data breaches. This is my way of pointing out how much of an issue this is becoming, to show consumers and lawmakers that this is not an isolated problem. I am hoping that this will get some media attention and hopefully will result in some legal action from our fine lawmakers.
 
 Planning into the future, I will update this as I get email notifications of planned changes of Terms and Conditions. And if they have forced arbitration clauses in the changes, they will be posted here. Also I may post the .md file on GitHub as its own repo and allow others to add to it via PR. I'm going to try to keep them in alphabetical order as well:
-
-{{< toc >}}
 
 ## Amazon
 

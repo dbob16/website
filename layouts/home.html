@@ -1,21 +1,12 @@
-{{- define "title" }}{{ .Site.Title }}{{- end }}
+{{ define "title" }}{{ .Site.Title }}{{ end }}
 
 {{- define "main" }}
-<div id="contentbody">
-<main>
+<div id="content-pane">
+<div id="main-content">
 {{ .Content }}
-</main>
 </div>
-<div id="pagelist" class="flex">
-{{- range where .Site.RegularPages "Section" "blog" | first 5 }}
-<div class="page-item">
-<a href="{{ .RelPermalink }}" class="block">{{ .Title }}</a>
-<p><em>{{ .Date.Format "2006 Jan 02 at 03:04PM" }}</em></p>
-<p>{{ .Summary }}</p>
-{{- if .Truncated }}
-<a href="{{ .RelPermalink }}" class="block">Read More</a>
-{{- end }}
+<div id="r-sidebar">
+{{- partial "sidebar" . }}
 </div>
-{{- end }}
 </div>
 {{- end }}

@@ -1,0 +1,24 @@
+<div class="pagelist">
+{{- $pages := .Paginate .RegularPages -}}
+{{- range $pages.Pages }}
+<a class="pagelink" href="{{ .RelPermalink }}">
+<h2>{{ .Title }}</h2>
+{{- with .Summary | plainify }}
+{{ . }}
+{{- end }}
+</a>
+<p>Posted at {{ .Date.Format "2006 Jan 02 at 03:04PM" }}</p>
+{{- end }}
+</div>
+<div class="pagination">
+<div class="newer">
+{{- with $pages.Prev }}
+<a href="{{ .URL }}">< Newer</a>
+{{- end }}
+</div>
+<div class="older">
+{{- with $pages.Next }}
+<a href="{{ .URL }}">Older ></a>
+{{- end }}
+</div>
+</div>

@@ -1,0 +1,12 @@
+<div class="about-me">
+<h2>About Me</h2>
+{{- with .Site.Params.authorpic }}
+<img src="{{ site.BaseURL }}{{ . }}">
+{{- end }}
+{{- with .Site.Params.author }}
+<p><strong>{{ . }}</strong></p>
+{{- end }}
+{{- with .Site.Params.aboutauthor }}
+<p>{{ . }}</p>
+{{- end }}
+</div>

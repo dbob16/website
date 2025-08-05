@@ -1,0 +1,7 @@
+<div class="social-large">
+{{- range .Site.Params.socials }}
+<div class="social">
+<a href="{{ .url }}" target="_blank" style="--accent: {{ .accent }}">{{ partial (print "icons/" .icon) .accent }} {{ .text }}</a>
+</div>
+{{- end }}
+</div>

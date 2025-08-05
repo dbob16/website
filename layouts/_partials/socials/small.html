@@ -1,0 +1,6 @@
+<h2>Socials</h2>
+<div class="social-small">
+{{- range site.Params.socials }}
+<a href="{{ .url }}" title="{{ .text }}" target="_blank">{{ partial (print "icons/" .icon) .accent }}</a>
+{{- end }}
+</div>

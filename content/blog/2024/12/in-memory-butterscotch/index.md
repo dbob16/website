@@ -2,6 +2,8 @@
 date = '2024-12-03T16:28:52-05:00'
 draft = false
 title = 'In Memory of Butterscotch'
+[params]
+  image = "butterscotch-memorial-2.webp"
 +++
 
 I wrote this a little bit later but decided to post this on my website as well. On December 2nd, 2024; I lost my beloved Butterscotch to chronic kidney disease. She will be missed. This article is for her memory.

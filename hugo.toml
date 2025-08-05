@@ -7,5 +7,33 @@ pagerSize = 7
 path = "pg"
 
 [params]
+bgimage = "pics/subaru-rainbow.webp"
 author = "Dilan Gilluly"
-sitelogo = "pics/header.webp"
+authorpic = "pics/profile.webp"
+aboutauthor = "IT Technician by day, tinkerer by night. Hobbies include mountain biking, fitness, and music."
+cyear = "2022"
+featuredpage = "blog/2024/12/in-memory-butterscotch"
+
+[[params.socials]]
+icon = "rss"
+text = "RSS Link for Dilan Gilluly Blog"
+url = "https://www.dilangilluly.us/blog/index.xml"
+accent = "#f08f01"
+
+[[params.socials]]
+icon = "github"
+text = "Github @dbob16"
+url = "https://www.github.com/dbob16/"
+accent = "#99f"
+
+[[params.socials]]
+icon = "lastfm"
+text = "Last.fm @dgilluly"
+url = "https://www.last.fm/user/dgilluly"
+accent = "#d1170e"
+
+[[params.socials]]
+icon = "youtube"
+text = "Youtube @techguydilan"
+url = "https://www.youtube.com/@techguydilan"
+accent = "#ff0033"

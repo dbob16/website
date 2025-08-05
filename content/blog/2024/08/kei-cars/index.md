@@ -4,6 +4,7 @@ draft = false
 title = 'Let them have Kei cars'
 [params]
   comments = true
+  toc = true
 +++
 
 In recent news, another state joins the odd movement of banning Kei cars, Massachusetts. More in [this article on ArsTechnica.com](https://arstechnica.com/cars/2024/08/states-keep-banning-cheap-little-kei-cars-for-fear-theyre-deathtraps/).
