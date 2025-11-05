@@ -2,11 +2,27 @@
 
 {{- define "main" }}
 <div id="content-pane">
-<div id="main-content">
-{{ .Content }}
-</div>
-<div id="r-sidebar">
-{{- partial "sidebar" . }}
-</div>
+    <div id="main-content">
+        <main>
+            {{ .Content -}}
+        </main>
+        <div class="bloglist-title">
+            <h2>Recent Posts:</h2>
+        </div>
+        <div class="pagelist">
+            {{- range where .Site.RegularPages "Section" "blog" | first 5 }}
+            <a class="pagelink" href="{{ .RelPermalink }}">
+            <h2>{{ .Title }}</h2>
+            {{- with .Summary | plainify }}
+            {{ . }}
+            {{- end }}
+            </a>
+            <p>Posted at {{ .Date.Format "2006 Jan 02 at 03:04PM" }}</p>
+            {{- end }}
+        </div>
+    </div>
+    <div id="r-sidebar">
+        {{- partial "sidebar" . }}
+    </div>
 </div>
 {{- end }}

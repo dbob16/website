@@ -1,7 +1,7 @@
 +++
 title = 'Why Kosa is Bad'
 date = '2025-08-01T17:21:33-0400'
-draft = true
+draft = false
 [params]
   comments = true
   toc = true
@@ -19,16 +19,26 @@ Parts of the bill are too vague and could be interpreted as "anything we don't l
 
 Such as [Section 102 sub a item 2](https://www.congress.gov/bill/118th-congress/house-bill/7891/text#H028F00C2EA62423FA641CABB9AEB6A22), even though it is defined in [Section 101 item 2](https://www.congress.gov/bill/118th-congress/house-bill/7891/text#HC88BF06953504C7187B45C64FF2DF803) the term "mental health disorder" is not objective, and can mean information that may develop a dissenting opinion.
 
-Love or hate it, this can lead to platforms over-censoring content lest they piss off a current sitting administration.
+Love or hate it, this can lead to platforms over-censoring content lest they piss off a current sitting administration. This will result in the loss of some helpful internet resources over time.
 
-### Test Title 
+## Complexity
 
-This is a test title to see if this works.
+The internet is extremely complex. I don't think that's a secret for anyone. But adding a central identity requirement will make it infinitely more complex. That will increase outages over the long term and it will likely just keep getting worse as the central identity service takes on an identity of its own.
 
-#### Another one
+### If the government were to control it
 
-Yet another one to see if this works still.
+This in my opinion would be the worse case scenario. At the very least it could lead to the government being able to shadow ban anyone it disagrees with, including political dissidents. On the other hand you have the bureaucratic nightmare which comes from government initiatives that the government doesn't feel is a priority.
 
-## Let's go back to two
+So over time, this will decrease the reliability even worse.
 
-Now let's go back to two heading levels.
+### If the private sector ran it
+
+You would likely see a fee for implementing central ID requirements on your own website if you were to operate one. That includes small time blogs that allow comments. So this becomes a huge issue because it would become more expensive over time.
+
+This problem would be exacerbated by the fact that it'd be a requirement. Just like how car insurance is a requirement in many places and its premiums are currently double what they were just four to six years ago.
+
+Also over time the reliability may fluctuate because the company running it will likely try to cut costs, and sometimes mess up in doing so having to backtrack.
+
+## Blackmail
+
+With either maintainer of this central identity system, the blackmail ability would likely increase. The reason why is it will likely keep track of which ID's are accessing which sites. So if you access something shameful, like adult videos, and a malicious actor found out; they may opt to require you to do something for them lest they release the log files.

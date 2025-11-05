@@ -1,9 +1,10 @@
 {{- if .Site.Params.featuredpage }}
 {{- with .Site.GetPage .Site.Params.featuredpage }}
-<h2>{{ .Title }}</h2>
+    <h2>{{ .Title }}</h2>
 {{- with .Resources.Get .Params.image }}
-<img src="{{ .RelPermalink }}">
+    <img src="{{ .RelPermalink }}">
 {{- end }}
 {{ .Summary | plainify }}
+    <p><a href="{{ .RelPermalink }}">Read More</a></p>
 {{- end }}
 {{- end }}

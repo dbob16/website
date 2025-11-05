@@ -1,0 +1,20 @@
+{{- define "main" }}
+<div id="content-pane">
+<div id="main-content">
+<main>
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+</main>
+<div class="pagelist">
+{{- range .Pages }}
+<a href="{{ .RelPermalink }}" class="pagelink">
+<h2>{{ .Title }}</h2>
+</a>
+</div>
+{{- end }}
+</div>
+<div id="r-sidebar">
+{{- partial "sidebar" . }}
+</div>
+</div>
+{{- end }}

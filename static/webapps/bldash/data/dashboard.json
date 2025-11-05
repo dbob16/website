@@ -1,0 +1,45 @@
+{
+  "title": "BuildLess Dashboard",
+  "subtitle": "A test configuration to see how BLDash works.",
+  "sections": [
+    {
+      "title": "My Websites",
+      "description": "Visit sites which belong to me",
+      "color": "",
+      "items": [
+        {
+          "title": "Personal Website",
+          "description": "The link to my personal website",
+          "url": "https://dilangilluly.us/"
+        },
+        {
+          "title": "My Ko-Fi",
+          "description": "Donate if you want",
+          "url": "https://ko-fi.com/techguydilan"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "description": "Resources which I used for this project",
+      "color": "",
+      "items": [
+        {
+          "title": "Vite",
+          "description": "Used vite to scaffold and package",
+          "url": "https://vite.dev/"
+        },
+        {
+          "title": "Svelte",
+          "description": "This version is built in Svelte",
+          "url": "https://svelte.dev/"
+        },
+        {
+          "title": "Dashy",
+          "description": "Inspired by dashy",
+          "url": "https://dashy.to/"
+        }
+      ]
+    }
+  ]
+}

@@ -6,22 +6,23 @@
   <meta name="description" content="{{ .Summary | plainify }}">
   <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
   <link rel="icon" href="{{ .Site.BaseURL }}/favicon.jpg">
-  {{ partial "head/css" . }}
-  {{ partial "head/js" . }}
+  {{- partial "head/css" . }}
+  {{- partial "head/js" . }}
 </head>
 <body>
-  <header>
-  <div id="site-title" {{ with .Site.Params.bgimage }}style="--bg-image: url('{{ site.BaseURL }}{{ . }}'"{{ end }}>
-  <h1>{{ .Site.Title }}</h1>
-  </div>
-  {{ partial "menus/main" . }}
-  </header>
-  {{ block "main" . }}
-  {{ end }}
-  <footer>
-  {{- partial "footer" . }}
-  <p class="center">&copy; {{ with .Site.Params.cyear }}{{ . }}{{ end }}-{{ now.Year }} Dilan Gilluly</p>
-  <p class="center">Built with Hugo v{{ hugo.Version }}</p>
-  </footer>
+<header>
+<div id="site-title" {{ with .Site.Params.bgimage }}style="--bg-image: url('{{ site.BaseURL }}{{ . }}'"{{ end }}>
+<h1>{{ .Site.Title }}</h1>
+</div>
+{{ partial "menus/main" . -}}
+</header>
+{{- block "main" . }}
+{{- end }}
+{{- partial "comments" . }}
+<footer>
+{{- partial "footer" . }}
+<p class="center">&copy; {{ with .Site.Params.cyear }}{{ . }}{{ end }}-{{ now.Year }} Dilan Gilluly</p>
+<p class="center">Built with Hugo v{{ hugo.Version }}</p>
+</footer>
 </body>
 </html>
