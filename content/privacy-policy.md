@@ -4,7 +4,7 @@ lastmod = '2024-04-23T10:21:39-04:00'
 title = 'Privacy'
 [menu]
   [menu.footer]
-    weight = 3
+    weight = 4
 +++
 
 For this privacy policy, I want to start out by saying that this is just a formality. I personally don't like collecting data on people, so I don't have this website to collect information.
