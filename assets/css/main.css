@@ -109,6 +109,10 @@ img {
   margin-top: 2rem;
 }
 
+#content-pane #main-content img {
+  max-height: 80vh;
+}
+
 /* Table of Contents */ 
 .toc details {
   display: block;
