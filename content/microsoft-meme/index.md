@@ -1,5 +1,5 @@
 +++
-lastmod = '2025-12-01T22:52:20-05:00'
+lastmod = '2026-01-22T10:02:00-05:00'
 title = 'Microsoft Meme'
 draft = false
 [menus.footer]
@@ -45,6 +45,8 @@ I decided to immortalize this in a text fashion with links to the news articles,
 [Windows update makes sign-in password icon invisible](https://www.tomshardware.com/software/windows/windows-update-makes-sign-in-password-icon-invisible-microsoft-says-you-can-still-click-on-empty-space-to-enter-your-password) - Nov 30, 2025
 
 [Microsoft's plan to speed up File Explorer in Windows 11 backfires: double the RAM, still slow](https://www.tweaktown.com/news/109138/microsofts-plan-to-speed-up-file-explorer-in-windows-11-backfires-double-the-ram-still-slow/index.html) - Nov 30, 2025
+
+[Microsoft Issues update to allow users to shutdown their computers](https://www.windowscentral.com/microsoft/windows-11/microsoft-issues-emergency-out-of-band-update-for-windows-11-to-address-major-bugs-that-broke-pc-shutdowns-and-sign-ins) - Jan 18, 2026
 
 ## Bonus: AI Where it doesn't belong
 
