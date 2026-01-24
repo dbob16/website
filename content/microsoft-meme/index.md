@@ -48,6 +48,8 @@ I decided to immortalize this in a text fashion with links to the news articles,
 
 [Microsoft Issues update to allow users to shutdown their computers](https://www.windowscentral.com/microsoft/windows-11/microsoft-issues-emergency-out-of-band-update-for-windows-11-to-address-major-bugs-that-broke-pc-shutdowns-and-sign-ins) - Jan 18, 2026
 
+[Windows update breaks Notepad and Snipping Tool](https://www.neowin.net/news/notepad-snipping-tool-other-apps-broken-by-new-bug-in-windows-11/) - Jan 22, 2026
+
 ## Bonus: AI Where it doesn't belong
 
 [Enhance Your Writing with AI in Notepad](https://support.microsoft.com/en-us/windows/enhance-your-writing-with-ai-in-notepad-4088b954-c97b-46dc-813f-959be01746d5)
